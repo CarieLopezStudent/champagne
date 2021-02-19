@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.8
+Created-By: 1.8.0_231-b11 (Oracle Corporation)
+Main-Class: com.amazonaws.services.dynamodbv2.local.main.ServerRunner
+Bundle-Description: DynamoDB Local is a small client-side database and
+  server that mimics the DynamoDB service.
+Bundle-License: DynamoDB Local License Agreement (classpath:LICENSE.tx
+ t)
+Class-Path: . log4j2.xml DynamoDBLocal_lib/Apache-HttpComponents-HttpC
+ lient-4.5.x.jar DynamoDBLocal_lib/Apache-HttpComponents-HttpCore-4.4.
+ x.jar DynamoDBLocal_lib/DynamoDBPartiQLShared-1.0.jar DynamoDBLocal_l
+ ib/GoogleGuava-r18.jar DynamoDBLocal_lib/IonJava.jar DynamoDBLocal_li
+ b/IonSQLSandbox-5.x_dev.jar DynamoDBLocal_lib/JMESPathJava-1.0.jar Dy
+ namoDBLocal_lib/JakartaCommons-codec-1.9.jar DynamoDBLocal_lib/Log4j-
+ api-2.x.jar DynamoDBLocal_lib/Log4j-core-2.13.jar DynamoDBLocal_lib/a
+ nnotations-13.0.jar DynamoDBLocal_lib/antlr-runtime-4.5.jar DynamoDBL
+ ocal_lib/aws-java-sdk-core-1.11.907.jar DynamoDBLocal_lib/aws-java-sd
+ k-dynamodb-1.11.907.jar DynamoDBLocal_lib/cdi-core-9.4.18.v20190429.j
+ ar DynamoDBLocal_lib/cdi-servlet-9.4.18.v20190429.jar DynamoDBLocal_l
+ ib/commons-cli-1.2.jar DynamoDBLocal_lib/commons-lang3-3.x.jar Dynamo
+ DBLocal_lib/ion-element-0.1.0.jar DynamoDBLocal_lib/ion-java-1.5.1.ja
+ r DynamoDBLocal_lib/jackson-annotations-2.10.x.jar DynamoDBLocal_lib/
+ jackson-core-2.10.x.jar DynamoDBLocal_lib/jackson-databind-2.10.x.jar
+  DynamoDBLocal_lib/jackson-dataformat-cbor-2.6.x.jar DynamoDBLocal_li
+ b/javax-websocket-client-impl-9.4.18.v20190429.jar DynamoDBLocal_lib/
+ javax-websocket-server-impl-9.4.18.v20190429.jar DynamoDBLocal_lib/ja
+ vax.websocket-api-1.0.jar DynamoDBLocal_lib/jetty-alpn-server-9.4.18.
+ v20190429.jar DynamoDBLocal_lib/jetty-annotations-9.4.18.v20190429.ja
+ r DynamoDBLocal_lib/jetty-client-9.4.18.v20190429.jar DynamoDBLocal_l
+ ib/jetty-continuation-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-de
+ ploy-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-http-9.4.18.v201904
+ 29.jar DynamoDBLocal_lib/jetty-io-9.4.18.v20190429.jar DynamoDBLocal_
+ lib/jetty-jaas-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-jaspi-9.4
+ .18.v20190429.jar DynamoDBLocal_lib/jetty-jmx-9.4.18.v20190429.jar Dy
+ namoDBLocal_lib/jetty-jndi-9.4.18.v20190429.jar DynamoDBLocal_lib/jet
+ ty-nosql-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-plus-9.4.18.v20
+ 190429.jar DynamoDBLocal_lib/jetty-proxy-9.4.18.v20190429.jar DynamoD
+ BLocal_lib/jetty-quickstart-9.4.18.v20190429.jar DynamoDBLocal_lib/je
+ tty-rewrite-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-schemas-3.1.
+ jar DynamoDBLocal_lib/jetty-security-9.4.18.v20190429.jar DynamoDBLoc
+ al_lib/jetty-server-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-serv
+ let-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-servlets-9.4.18.v201
+ 90429.jar DynamoDBLocal_lib/jetty-setuid-java-1.0.3.jar DynamoDBLocal
+ _lib/jetty-spring-9.4.18.v20190429.jar DynamoDBLocal_lib/jetty-util-9
+ .4.18.v20190429.jar DynamoDBLocal_lib/jetty-webapp-9.4.18.v20190429.j
+ ar DynamoDBLocal_lib/jetty-xml-9.4.18.v20190429.jar DynamoDBLocal_lib
+ /joda-time-2.8.2.jar DynamoDBLocal_lib/jsr305-3.0.2.jar DynamoDBLocal
+ _lib/kotlin-reflect-1.3.21.jar DynamoDBLocal_lib/kotlin-stdlib-1.3.31
+ .jar DynamoDBLocal_lib/kotlin-stdlib-common-1.3.21.jar DynamoDBLocal_
+ lib/libsqlite4java-linux-aarch64.so DynamoDBLocal_lib/libsqlite4java-
+ linux-amd64.so DynamoDBLocal_lib/libsqlite4java-linux-i386.so DynamoD
+ BLocal_lib/libsqlite4java-osx.dylib DynamoDBLocal_lib/partiql-ir-gene
+ rator-runtime-0.1.0.jar DynamoDBLocal_lib/servlet-api-3.1.jar DynamoD
+ BLocal_lib/sqlite4java-win32-x64.dll DynamoDBLocal_lib/sqlite4java-wi
+ n32-x86.dll DynamoDBLocal_lib/sqlite4java.jar DynamoDBLocal_lib/webso
+ cket-api-9.4.18.v20190429.jar DynamoDBLocal_lib/websocket-client-9.4.
+ 18.v20190429.jar DynamoDBLocal_lib/websocket-common-9.4.18.v20190429.
+ jar DynamoDBLocal_lib/websocket-server-9.4.18.v20190429.jar DynamoDBL
+ ocal_lib/websocket-servlet-9.4.18.v20190429.jar
+
